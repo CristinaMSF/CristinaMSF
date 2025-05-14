@@ -97,3 +97,86 @@ Mi objetivo es integrar conocimientos técnicos, comunicación efectiva en ingl�
 -->
 
 
+# 👋 Hello! I'm Cristina 👩‍💻  
+Junior Data Analyst in continuous learning with a background in social sciences and audiovisuals.
+
+Passionate about transforming data into actionable solutions, creating purposeful visualizations, and driving impact through analysis.
+
+---
+
+## 🔍 Specialization
+- SQL • Power BI • Python • Tableau
+
+## 🎓 Education in Data Analysis at Adalab (2025)
+
+📍 Madrid, Spain
+
+---
+
+## 📊 Featured Projects
+
+### 🌍 Global Analysis of Natural Disasters (1900–2023)
+A historical and geographical analysis project on natural disasters with a focus on human and economic impacts. We use Python for data processing and Power BI to create interactive visualizations aimed at supporting resilience strategies and risk mitigation.
+
+🛠️ **Tools:** Python, Power BI, data storytelling  
+🔗 [GitHub Repository](https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters?tab=readme-ov-file#--global-analysis-of-natural-disasters-19002023)
+
+---
+
+### 🌍 Impact of Natural Disasters in Low-Income Countries
+A collaborative, socially-focused project: we explore international databases, automate analysis with Python, and build an interactive Power BI dashboard to support data-driven decision-making.
+
+🛠️ **Tools:** Python, Power BI, data storytelling  
+🔗 [GitHub Repository](https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters)
+
+---
+
+### 👥 Employee Retention and Satisfaction at ABC Corporation
+A project focused on identifying factors influencing talent retention and motivation. Using EDA, visualizations, and documentation, we generate key insights and strategic recommendations to improve the work environment.
+
+🛠️ **Tools:** Python, Pandas, Seaborn, Matplotlib, data storytelling  
+🔗 [GitHub Repository](https://github.com/CristinaMSF/EDA_analysis_for_job_retention_and_satisfaction)
+
+---
+
+### 🎮 Classic Games in Python
+A formative project where we developed a collection of interactive games using object-oriented programming. It includes Rock, Paper, Scissors, Hangman, and a trivia quiz. Designed with clean and reusable code to practice logic and structures in Python.
+
+🛠️ **Tools:** Python, Git, OOP, JSON  
+🔗 [GitHub Repository](https://github.com/CristinaMSF/Python_creation_of_classic_games)
+
+---
+
+### 🎧 Music Trends 2019–2024
+An analysis of music consumption using data from Spotify and Last.fm. We automated data extraction via APIs, processed the data with SQL and Python, and generated visualizations to identify patterns, emerging genres, and country preferences. Aimed at supporting strategic decisions in music marketing.
+
+🛠️ **Tools:** Python, SQL, APIs, data visualization  
+🔗 [GitHub Repository](https://github.com/CristinaMSF/Python_SQL_music_trends_analysis)
+
+---
+
+## 🛠️ Tools and Technologies
+- Python • Power BI • SQL • Tableau • GitHub  
+- APIs • Web Scraping (BeautifulSoup, Selenium)  
+- Pandas • Seaborn • Matplotlib • Visual Studio Code
+
+---
+
+## 🎓 On going Education and Certifications
+
+Committed to continuous learning, I am currently enhancing key skills for data analysis and the international professional environment. I'm preparing for the IELTS exam to certify my English proficiency, and I am complementing my technical profile with certifications in essential tools and methodologies:
+
+- 📊 **Official Power BI Certification** (in progress)
+- 🧠 **Specialized courses in data visualization, SQL, and advanced analytics** (in progress)
+- 🌐 **IELTS Preparation – Academic English for global environments** (in progress)
+- 🧮 **Ongoing practice in SQL, Python, and process automation** (in progress)
+
+My goal is to integrate technical knowledge, effective communication in English, and business intelligence tools to add value to multidisciplinary teams and international environments.
+
+---
+
+## 💬 Contact
+📧 cristina.martin.sfr@gmail.com  
+🔗 [LinkedIn](#)
+
+🌐 **Coming Soon:** Portfolio website

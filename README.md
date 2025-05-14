@@ -105,7 +105,8 @@ Passionate about transforming data into actionable solutions, creating purposefu
 ---
 
 ## 🔍 Specialization
-- SQL • Power BI • Python • Tableau
+
+**SQL** • **Power BI** • **Python** • **Tableau**
 
 ## 🎓 Education in Data Analysis at Adalab (2025)
 

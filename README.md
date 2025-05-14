@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Cristina 👩‍💻
 
-**Analista de Datos Junior** en continuo aprendizaje con background en ciencias sociales y audiovisuales. 
+**Analista de Datos Junior** en continuo aprendizaje con background en ciencias y audiovisuales. 
 
 Apasionada por transformar datos en soluciones útiles, crear visualizaciones con propósito y buscar impacto a través del análisis.
 
@@ -109,7 +109,7 @@ Mi objetivo es integrar conocimientos técnicos, comunicación efectiva en ingl�
 ---
 
 # 👋 Hello! I'm Cristina 👩‍💻  
-Junior Data Analyst in continuous learning with a background in social sciences and audiovisuals.
+Junior Data Analyst in continuous learning with a background in sciences and audiovisuals.
 
 Passionate about transforming data into actionable solutions, creating purposeful visualizations, and driving impact through analysis.
 

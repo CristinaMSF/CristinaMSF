@@ -20,35 +20,45 @@ Apasionada por transformar datos en soluciones útiles, crear visualizaciones co
 
 ### 🌍 Global Analysis of Natural Disasters (1900–2023)
 Proyecto de análisis histórico y geográfico sobre desastres naturales con enfoque en el impacto humano y económico. Utilizamos Python para el procesamiento de datos y Power BI para crear visualizaciones interactivas orientadas a apoyar estrategias de resiliencia y mitigación del riesgo.
+
 **🛠️ Herramientas:** Python, Power BI, storytelling de datos
+
 **🔗 Repositorio en GitHub**  https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters?tab=readme-ov-file#--global-analysis-of-natural-disasters-19002023
 
 ---
 
 ### 🌍 Impacto de desastres naturales en países de bajos ingresos
 Proyecto colaborativo con enfoque social: exploramos bases de datos internacionales, automatizamos análisis en Python y creamos un dashboard interactivo en Power BI para apoyar la toma de decisiones basada en datos.  
+
 **🛠️ Herramientas:** Python, Power BI, storytelling de datos  
+
 **🔗 Repositorio en GitHub**  (https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters) 
 
 ---
 
 ### 👥 Retención y satisfacción laboral en ABC Corporation
 Proyecto de análisis enfocado en identificar los factores que influyen en la permanencia y motivación del talento. A través de EDA, visualizaciones y documentación, generamos hallazgos clave y recomendaciones estratégicas para mejorar el entorno laboral.
+
 **🛠️ Herramientas:**  Python, Pandas, Seaborn, Matplotlib, storytelling de datos
+
 **🔗 Repositorio en GitHub**  https://github.com/CristinaMSF/EDA_analysis_for_job_retention_and_satisfaction
 
 ---
 
 ### 🎮 Juegos Clásicos en Python
 Proyecto formativo donde desarrollamos una colección de juegos interactivos aplicando programación orientada a objetos. Incluye Piedra, Papel o Tijera, Ahorcado y un Trivial de preguntas y respuestas. Diseñado con código limpio y reutilizable como práctica de lógica y estructuras en Python.
+
 **🛠️ Herramientas:**  Python, Git, POO, JSON
+
 **🔗 Repositorio en GitHub** https://github.com/CristinaMSF/Python_creation_of_classic_games
 
 ---
 
 ### 🎧 Tendencias Musicales 2019–2024
 Análisis de consumo musical a partir de datos de Spotify y Last.fm. Automatizamos la extracción vía APIs, procesamos con SQL y Python, y generamos visualizaciones para identificar patrones, géneros emergentes y preferencias por país. Orientado a decisiones estratégicas en marketing musical.
+
 **🛠️ Herramientas:**  Python, SQL, APIs, visualización de datos
+
 **🔗 Repositorio en GitHub**  https://github.com/CristinaMSF/Python_SQL_music_trends_analysis
 
 

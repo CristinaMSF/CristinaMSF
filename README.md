@@ -70,6 +70,13 @@ Análisis de consumo musical a partir de datos de Spotify y Last.fm. Automatizam
 
 ---
 
+### 💡 Proyectos Personales
+Además de mis proyectos académicos y profesionales, actualmente estoy trabajando en varios proyectos personales de análisis de datos. Estos proyectos me permiten explorar nuevas herramientas, técnicas y áreas de interés, mientras continúo desarrollando mis habilidades en análisis de datos y visualización de datos.
+
+¡Mantente atento para más actualizaciones mientras continúo construyendo y compartiendo mi trabajo personal!
+
+---
+
 ## 🎓 Formación Continua y Certificaciones
 
 Comprometida con el aprendizaje constante, actualmente estoy reforzando habilidades clave para el análisis de datos y el entorno profesional internacional. Estoy preparando el examen IELTS para acreditar mi nivel de inglés, y complementando mi perfil técnico con certificaciones en herramientas y metodologías clave:
@@ -160,6 +167,13 @@ An analysis of music consumption using data from Spotify and Last.fm. We automat
 - Python • Power BI • SQL • Tableau • GitHub  
 - APIs • Web Scraping (BeautifulSoup, Selenium)  
 - Pandas • Seaborn • Matplotlib • Visual Studio Code
+
+  ---
+
+### 💡 Personal Projects
+In addition to my academic and professional projects, I am currently working on several personal data analysis projects. These projects allow me to explore new tools, techniques, and domains of interest, while continuing to develop my skills in data analytics and data visualization.
+
+Stay tuned for more updates as I continue to build and share my personal work!
 
 ---
 

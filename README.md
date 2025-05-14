@@ -104,6 +104,7 @@ Mi objetivo es integrar conocimientos técnicos, comunicación efectiva en ingl�
 -->
 
 ---
+---
 
 # 👋 Hello! I'm Cristina 👩‍💻  
 Junior Data Analyst in continuous learning with a background in social sciences and audiovisuals.

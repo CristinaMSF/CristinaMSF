@@ -18,21 +18,23 @@ Apasionada por transformar datos en soluciones útiles, crear visualizaciones co
 
 ## 📊 Proyectos Destacados
 
-### 🌍 Global Analysis of Natural Disasters (1900–2023)
+### 🌍 Análisis global de los desastres naturales (1900-2023)
 Proyecto de análisis histórico y geográfico sobre desastres naturales con enfoque en el impacto humano y económico. Utilizamos Python para el procesamiento de datos y Power BI para crear visualizaciones interactivas orientadas a apoyar estrategias de resiliencia y mitigación del riesgo.
 
 **🛠️ Herramientas:** Python, Power BI, storytelling de datos
 
-**🔗 Repositorio en GitHub**  https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters?tab=readme-ov-file#--global-analysis-of-natural-disasters-19002023
+**🔗 Repositorio en GitHub**  (https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters)
 
 ---
 
-### 🌍 Impacto de desastres naturales en países de bajos ingresos
-Proyecto colaborativo con enfoque social: exploramos bases de datos internacionales, automatizamos análisis en Python y creamos un dashboard interactivo en Power BI para apoyar la toma de decisiones basada en datos.  
+### 🌱 Áreas Protegidas de Sudamérica
+Proyecto de visualización interactiva sobre la conservación ambiental en Sudamérica en comparación con el contexto global. A través del uso de Python y Tableau, analizamos datos oficiales para mostrar la evolución, gobernanza y desafíos actuales de las áreas protegidas. El objetivo es fomentar conciencia estratégica, cooperación internacional y acción concreta desde ONGs, autoridades y organismos multilaterales.
 
-**🛠️ Herramientas:** Python, Power BI, storytelling de datos  
+**🛠️ Herramientas:** Python, Tableau, storytelling de datos
 
-**🔗 Repositorio en GitHub**  (https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters) 
+**🔗 Dashboards en Tableau Public** https://public.tableau.com/app/profile/cristina.martin.sanfrutos/vizzes
+
+**🔗 Repositorio en GitHub** (https://github.com/CristinaMSF/Tableau_LatAmerican_biodiversity_analysis)
 
 ---
 
@@ -128,40 +130,45 @@ Passionate about transforming data into actionable solutions, creating purposefu
 ### 🌍 Global Analysis of Natural Disasters (1900–2023)
 A historical and geographical analysis project on natural disasters with a focus on human and economic impacts. We use Python for data processing and Power BI to create interactive visualizations aimed at supporting resilience strategies and risk mitigation.
 
-🛠️ **Tools:** Python, Power BI, data storytelling  
-🔗 [GitHub Repository](https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters?tab=readme-ov-file#--global-analysis-of-natural-disasters-19002023)
+**🛠️ Tools:** Python, Power BI, data storytelling  
+**🔗 [GitHub Repository]** (https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters?tab=readme-ov-file#--global-analysis-of-natural-disasters-19002023)
 
 ---
 
-### 🌍 Impact of Natural Disasters in Low-Income Countries
-A collaborative, socially-focused project: we explore international databases, automate analysis with Python, and build an interactive Power BI dashboard to support data-driven decision-making.
+### 🌱 Protected Areas of South America
+Interactive data visualization project focused on environmental conservation in South America, placed within the global context. Using official data sources, Python, and Tableau, this project explores the historical evolution, governance models, and current challenges of protected areas. The goal is to promote strategic awareness, international cooperation, and concrete action by NGOs, public authorities, and multilateral organizations.
 
-🛠️ **Tools:** Python, Power BI, data storytelling  
-🔗 [GitHub Repository](https://github.com/CristinaMSF/PowerBi_global_analysis_of_natural_disasters)
+**🛠️ Tools:** Python, Tableau, data storytelling
 
+**🔗 Dashboards on Tableau Public:** https://public.tableau.com/app/profile/cristina.martin.sanfrutos/vizzes
+
+**🔗 [GitHub Repository]**  https://github.com/CristinaMSF/Tableau_LatAmerican_biodiversity_analysis
 ---
 
 ### 👥 Employee Retention and Satisfaction at ABC Corporation
 A project focused on identifying factors influencing talent retention and motivation. Using EDA, visualizations, and documentation, we generate key insights and strategic recommendations to improve the work environment.
 
-🛠️ **Tools:** Python, Pandas, Seaborn, Matplotlib, data storytelling  
-🔗 [GitHub Repository](https://github.com/CristinaMSF/EDA_analysis_for_job_retention_and_satisfaction)
+**🛠️ Tools:** Python, Pandas, Seaborn, Matplotlib, data storytelling  
+
+**🔗 [GitHub Repository]** (https://github.com/CristinaMSF/EDA_analysis_for_job_retention_and_satisfaction)
 
 ---
 
 ### 🎮 Classic Games in Python
 A formative project where we developed a collection of interactive games using object-oriented programming. It includes Rock, Paper, Scissors, Hangman, and a trivia quiz. Designed with clean and reusable code to practice logic and structures in Python.
 
-🛠️ **Tools:** Python, Git, OOP, JSON  
-🔗 [GitHub Repository](https://github.com/CristinaMSF/Python_creation_of_classic_games)
+**🛠️ Tools:** Python, Git, OOP, JSON  
+
+**🔗 [GitHub Repository]** (https://github.com/CristinaMSF/Python_creation_of_classic_games)
 
 ---
 
 ### 🎧 Music Trends 2019–2024
 An analysis of music consumption using data from Spotify and Last.fm. We automated data extraction via APIs, processed the data with SQL and Python, and generated visualizations to identify patterns, emerging genres, and country preferences. Aimed at supporting strategic decisions in music marketing.
 
-🛠️ **Tools:** Python, SQL, APIs, data visualization  
-🔗 [GitHub Repository](https://github.com/CristinaMSF/Python_SQL_music_trends_analysis)
+**🛠️ Tools:** Python, SQL, APIs, data visualization  
+
+**🔗 [GitHub Repository]** (https://github.com/CristinaMSF/Python_SQL_music_trends_analysis)
 
 ---
 

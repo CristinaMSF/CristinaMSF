@@ -18,7 +18,7 @@ Apasionada por transformar datos en soluciones útiles, crear visualizaciones co
 
 ## 📊 Proyectos Destacados
 
-### 🌍 Análisis global de los desastres naturales (1900-2023)
+### 🌍 Análisis global de desastres naturales (1900-2023)
 Proyecto de análisis histórico y geográfico sobre desastres naturales con enfoque en el impacto humano y económico. Utilizamos Python para el procesamiento de datos y Power BI para crear visualizaciones interactivas orientadas a apoyar estrategias de resiliencia y mitigación del riesgo.
 
 **🛠️ Herramientas:** Python, Power BI, storytelling de datos

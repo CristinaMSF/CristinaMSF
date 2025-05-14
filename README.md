@@ -1,13 +1,14 @@
 # 👋 ¡Hola! Soy Cristina 👩‍💻
 
 **Analista de Datos Junior** en continuo aprendizaje con background en ciencias sociales y audiovisuales. 
+
 Apasionada por transformar datos en soluciones útiles, crear visualizaciones con propósito y buscar impacto a través del análisis.
 
 ---
 
 ## 🔍 Especialización
 
-• **SQL** • **Power BI** • **Python** • **Tableau**
+**SQL** • **Power BI** • **Python** • **Tableau**
 
 🎓 Formación en Análisis de Datos en **Adalab (2025)**  
 📍 Madrid, España

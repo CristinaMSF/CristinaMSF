@@ -11,6 +11,7 @@ Apasionada por transformar datos en soluciones útiles, crear visualizaciones co
 **SQL** • **Power BI** • **Python** • **Tableau**
 
 🎓 Formación en Análisis de Datos en **Adalab (2025)**  
+
 📍 Madrid, España
 
 ---

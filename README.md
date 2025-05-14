@@ -162,7 +162,7 @@ An analysis of music consumption using data from Spotify and Last.fm. We automat
 
 ---
 
-## 🎓 On going Education and Certifications
+## 🎓 Ongoing Education and Certifications
 
 Committed to continuous learning, I am currently enhancing key skills for data analysis and the international professional environment. I'm preparing for the IELTS exam to certify my English proficiency, and I am complementing my technical profile with certifications in essential tools and methodologies:
 
